@@ -18,7 +18,8 @@ import sign
 import ask
 import Asks
 import Analysis
-
+#изменение кироцтау
+erhwjfnekm
 
 def load_config():
     if not os.path.isfile('config.json'):
